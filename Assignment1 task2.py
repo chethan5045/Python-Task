@@ -1,0 +1,4 @@
+s1 = input("Enter the first name : ")
+s2 = input("Enter the last name : ")
+s3 = s1 +" " + s2
+print(f"hello,{s3}! Welcome to the python program.")
